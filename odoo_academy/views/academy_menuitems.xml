@@ -12,7 +12,7 @@
         </record>
         
         
-        <menuitem name="HehE Academy"
+        <menuitem name="Odoo Academy"
                   id="menu_academy"
                   sequence="1"/>
         
