@@ -32,7 +32,7 @@
                                    <i t-field="session.write_date" t-field-option='{"format":"long"}'/>
                                 </p>
                             </t>
-                            <t t-if="not course.seesion_ids">
+                            <t t-if="not course.session_ids">
                                 <p> No Session Currently</p>
                             </t>
                         </t>
