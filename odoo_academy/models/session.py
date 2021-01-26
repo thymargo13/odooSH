@@ -30,7 +30,7 @@ class Session(models.Model):
                                        ('done','Done'),
                                        ('complete','Complete')],
                             default='draft',
-                            requirement=True)
+                            required=True)
     total_price = fields.Float(string='Total Price',
                               related='course_id.total_price')
     
