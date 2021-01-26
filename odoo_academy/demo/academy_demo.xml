@@ -27,8 +27,6 @@
                 Including different web programming skills 
             </field>
             <field name="level">advanced</field>
-            <field name="base_price">657</field>
-            <field name="additional_fee">10</field>
         </record>
     </data>
 </odoo>
