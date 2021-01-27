@@ -64,6 +64,11 @@
                                 </li>
                             </t>
                         </ul>
+                        <form>
+                            <input type="radio" name="a"/>A
+                            
+                            <input type="radio" name="b"/>B
+                        </form>
                     </div>
                 </div>
             </t>
